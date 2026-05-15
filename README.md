@@ -1,38 +1,48 @@
-# Day 8 — Data Visualization with Python
+# Day 32 — Practical Implementation of Support Vector Machines (SVM)
 
 ## Overview
-This project is part of my Data Science learning journey where I am building skills in data analysis and visualization.
+This project is part of my Data Science and Machine Learning learning journey.
 
-On Day 8, I focused on visualizing data using Python libraries.
+On Day 32, I focused on implementing Support Vector Machine algorithms for both classification and regression tasks.
 
 ---
 
 ## Concepts Covered
-- Matplotlib  
-- Seaborn  
+- Support Vector Classifier (SVC)  
+- SVM Kernels Implementation  
+- Support Vector Regression (SVR)  
 
 ---
 
 ## Practice
-Practiced creating different types of visualizations, including:
-- Line plots  
-- Bar charts  
-- Histograms  
-- Scatter plots  
+- Implemented SVM models for classification tasks  
+- Explored different kernels for handling non-linear data  
+- Implemented Support Vector Regression models  
+- Understood how SVM behaves on different datasets  
 
 ---
 
 ## Key Focus
-- Understanding how to represent data visually  
-- Identifying patterns and trends  
-- Improving clarity and communication of data  
+- Practical implementation of SVM  
+- Understanding kernel-based learning  
+- Exploring classification and regression workflows  
 
 ---
 
 ## Key Learning
-Data visualization plays a key role in analyzing and communicating insights effectively. Libraries like Matplotlib and Seaborn make it easier to create meaningful visual representations of data.
+Support Vector Machines become more intuitive through practical implementation, especially when working with kernels and real datasets.
 
 ---
 
-## Progress
-Day 8 Completed
+## Tools & Libraries
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
+
+---
+
+## How to Run
+```bash
+jupyter notebook
